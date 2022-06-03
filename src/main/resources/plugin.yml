@@ -1,0 +1,8 @@
+name: MiniGames
+version: '${project.version}'
+main: com.snat.minigames.Minigame
+api-version: 1.18
+authors: [ snat ]
+description: minigame plugin
+commands:
+  arena:
